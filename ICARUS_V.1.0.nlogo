@@ -21,8 +21,6 @@ agencies-own [
    ;;;;;;;;;;;;;;;;;;;;;;;  INSPECTION-RELATED VARIABLES
    a-i-nr-of-inspcts    ;;  number of inspections in one turn
 
-   ;;;;;;;;;;;;;;;;;;;;;;;  Random inspection strategy related variables
-
    ;;;;;;;;;;;;;;;;;;;;;;;  Random entity inspection strategy related variables
    a-rnd-lst            ;;  list of entites for random inspection
 
