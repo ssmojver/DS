@@ -6,4 +6,8 @@ The model is applicable to environments where an inspection agency, via centrall
 
 Additional information is included in the .nlogo file
 
+Full description of the model and its analysis (including verification, validation and sensitivity analysis) can be found here:
+* (in English)
+* https://repozitorij.foi.unizg.hr/islandora/object/foi:3558 (in Croatian - doctoral dissertation)
+
 A simplified version of the model is described in the article "Inspecting Compliance to Many Rules: an Agent Based Model" (https://doi.org/10.7906/indecs.14.3.1)
