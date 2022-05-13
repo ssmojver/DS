@@ -10,6 +10,8 @@ Full description of the model and its analysis (including verification, validati
 * https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4019714 (in English)
 * https://repozitorij.foi.unizg.hr/islandora/object/foi:3558 (in Croatian - doctoral dissertation)
 
-The model can also be seen here: http://modelingcommons.org/browse/one_model/6975
+The model can also be found here: 
+* http://modelingcommons.org/browse/one_model/6975
+* https://www.comses.net/codebases/251b6bf1-d1bb-47a8-b97d-f56877b86d4d/releases/1.0.0/
 
 A simplified version of the model is described in the article "Inspecting Compliance to Many Rules: an Agent Based Model" (https://doi.org/10.7906/indecs.14.3.1)
